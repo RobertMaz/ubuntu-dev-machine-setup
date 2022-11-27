@@ -1,69 +1,69 @@
 ---
 
 base_archiving_tools:
-  - arj
-  - cabextract
-  - file-roller
-  - mpack
-  - p7zip-full
-  - p7zip-rar
-  - rar
-  - sharutils
-  - unace
+#  - arj
+#  - cabextract
+#  - file-roller
+#  - mpack
+#  - p7zip-full
+#  - p7zip-rar
+#  - rar
+#  - sharutils
+#  - unace
   - unrar
   - unzip
-  - uudeview
+#  - uudeview
   - zip
 
 base_productivity_tools:
   - libreoffice
 
 base_system_tools:
-  - fatrace
-  - fdupes
-  - gnome-calculator
-  - gufw
-  - progress
-  - pwgen
+#  - fatrace
+#  - fdupes
+#  - gnome-calculator
+#  - gufw
+#  - progress
+#  - pwgen
   #- syncthing
 
 base_system_tools_laptop:
 #  - cpufrequtils
 #  - powertop
-  - tlp
-  - tlp-rdw
-  - acpi-call-dkms  # for newer ThinkPads (X220/T420 and later)
+#  - tlp
+#  - tlp-rdw
+#  - acpi-call-dkms  # for newer ThinkPads (X220/T420 and later)
 #  - tp-smapi-dkms  # for older ThinkPads
 
 base_download_tools:
-  - aria2
-  - axel
-  - transmission
-  - speedtest-cli
-  - wget
-  - youtube-dl
+#  - aria2
+#  - axel
+#  - transmission
+#  - speedtest-cli
+#  - wget
+#  - youtube-dl
 
 base_developer_tools:
-  - 2to3
-  - android-tools-adb
-  - android-tools-fastboot
+#  - 2to3
+#  - android-tools-adb
+#  - android-tools-fastboot
   - ansible
   - ansible-lint
-  - awscli
-  - bat
-  - bpython
+#  - awscli
+#  - bat
+#  - bpython
   - black
   - cloc
   - clusterssh
   - colordiff
   - csvkit
   - curl
-  - default-jre-headless
+#  - default-jre-headless
   - dos2unix
   - entr
   - exa
   - expect
-  - filezilla
+#  - filezilla
   - fonts-powerline
   - fzf
   - g++
